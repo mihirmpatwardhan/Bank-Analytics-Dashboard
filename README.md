@@ -78,8 +78,7 @@ The dashboard enables stakeholders to monitor key performance indicators (KPIs),
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](<img width="1372" height="727" alt="image" src="https://github.com/user-attachments/assets/efa85e00-c9bc-49ac-b3cd-aa53189f8b9b" />
-)
+![Dashboard Screenshot](Snapshot%20Of%20Dashboard.png)
 
 ---
 
@@ -101,15 +100,6 @@ This dashboard can be used in:
 * Real-world financial dataset analysis
 * Insight-driven storytelling approach
 * Scalable and customizable design
-
----
-
-## 🔮 Future Enhancements
-
-* Integration with live database (SQL / APIs)
-* Real-time data updates
-* Advanced predictive analytics using ML models
-* User authentication & role-based dashboards
 
 ---
 
