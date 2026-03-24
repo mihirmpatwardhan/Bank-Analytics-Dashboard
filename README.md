@@ -78,7 +78,8 @@ The dashboard enables stakeholders to monitor key performance indicators (KPIs),
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](add-your-image-here)
+![Dashboard Screenshot](<img width="1372" height="727" alt="image" src="https://github.com/user-attachments/assets/efa85e00-c9bc-49ac-b3cd-aa53189f8b9b" />
+)
 
 ---
 
