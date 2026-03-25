@@ -108,6 +108,6 @@ This dashboard can be used in:
 **Mihir Patwardhan**
 🎓 B.E. E&TC | PICT Pune
 💻 Aspiring Data Analyst | MERN Stack Developer
-📊 Passionate about Data Science  & AI
+📊 Passionate about AIML
 
 ---
